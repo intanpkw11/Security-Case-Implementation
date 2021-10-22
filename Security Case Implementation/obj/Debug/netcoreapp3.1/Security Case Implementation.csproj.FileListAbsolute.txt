@@ -1,0 +1,13 @@
+D:\2_Kuliah\SMT5\Pak Fahim\Security Case Implementation\Security Case Implementation\bin\Debug\netcoreapp3.1\Security Case Implementation.exe
+D:\2_Kuliah\SMT5\Pak Fahim\Security Case Implementation\Security Case Implementation\bin\Debug\netcoreapp3.1\Security Case Implementation.deps.json
+D:\2_Kuliah\SMT5\Pak Fahim\Security Case Implementation\Security Case Implementation\bin\Debug\netcoreapp3.1\Security Case Implementation.runtimeconfig.json
+D:\2_Kuliah\SMT5\Pak Fahim\Security Case Implementation\Security Case Implementation\bin\Debug\netcoreapp3.1\Security Case Implementation.runtimeconfig.dev.json
+D:\2_Kuliah\SMT5\Pak Fahim\Security Case Implementation\Security Case Implementation\bin\Debug\netcoreapp3.1\Security Case Implementation.dll
+D:\2_Kuliah\SMT5\Pak Fahim\Security Case Implementation\Security Case Implementation\bin\Debug\netcoreapp3.1\Security Case Implementation.pdb
+D:\2_Kuliah\SMT5\Pak Fahim\Security Case Implementation\Security Case Implementation\obj\Debug\netcoreapp3.1\Security Case Implementation.csprojAssemblyReference.cache
+D:\2_Kuliah\SMT5\Pak Fahim\Security Case Implementation\Security Case Implementation\obj\Debug\netcoreapp3.1\Security Case Implementation.AssemblyInfoInputs.cache
+D:\2_Kuliah\SMT5\Pak Fahim\Security Case Implementation\Security Case Implementation\obj\Debug\netcoreapp3.1\Security Case Implementation.AssemblyInfo.cs
+D:\2_Kuliah\SMT5\Pak Fahim\Security Case Implementation\Security Case Implementation\obj\Debug\netcoreapp3.1\Security Case Implementation.csproj.CoreCompileInputs.cache
+D:\2_Kuliah\SMT5\Pak Fahim\Security Case Implementation\Security Case Implementation\obj\Debug\netcoreapp3.1\Security Case Implementation.dll
+D:\2_Kuliah\SMT5\Pak Fahim\Security Case Implementation\Security Case Implementation\obj\Debug\netcoreapp3.1\Security Case Implementation.pdb
+D:\2_Kuliah\SMT5\Pak Fahim\Security Case Implementation\Security Case Implementation\obj\Debug\netcoreapp3.1\Security Case Implementation.genruntimeconfig.cache
